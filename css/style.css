@@ -495,5 +495,8 @@ a[href^="http"]{
 }
 .center{
     text-align: center;
-    font-size: 3px;
+}
+.center1{
+    text-align: center;
+    font-size: 5px;
 }
